@@ -1,7 +1,7 @@
-10010 piranhas
-1 tiger
+100100 piranhas
+10 tigers
 3 wild boars
 11 warthogs
-1 panthers
-112 tree frogs
-1 python
+10 panthers
+10102 tree frogs
+10 pythons
